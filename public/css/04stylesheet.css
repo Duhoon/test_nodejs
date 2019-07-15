@@ -1,0 +1,21 @@
+* {box-sizing: border-box;}
+
+body {
+    margin: 0;
+    padding: 10px;
+}
+
+table {border-collapse : collapse;}
+
+table th td { 
+    border : 1px solid grey;
+}
+
+tr:nth-child(even) {
+    background-color : lightgrey;
+}
+
+th {
+    background-color : green;
+    th
+}
